@@ -2,7 +2,7 @@
 title: Oscar Bjorkman's Blog
 email: oscarrbjorkman@gmail.com
 description: Oscar Bjorkman's Blog for Life and whatever he may deem important.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/site" # the subpath of your site, e.g. /blog/
 url: "http://stereopoly.github.io" # the base hostname & protocol for your site
 github_username:  Stereopoly
 
