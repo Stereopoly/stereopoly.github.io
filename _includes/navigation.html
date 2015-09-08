@@ -8,4 +8,9 @@
             <a href="{{ site.baseurl }}about">About </a>
         {% endif %}
     {% endif %}
+    {% if page.url != "/other/" %}
+        {% if site.otherPage %}
+            <a href="{{ site.baseurl }}other">Other </a>
+        {% endif %}
+    {% endif %}
 </nav>
