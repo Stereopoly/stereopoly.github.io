@@ -1,11 +1,42 @@
-# Site settings
-title: Oscar Bjorkman's Blog
-email: oscarrbjorkman@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Oscar Bjorkman's blog about water-cooler talk, banter, and whatever else.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://stereopoly.github.io" # the base hostname & protocol for your site
-github_username:  Stereopoly
+name: Oscar Bjorkman's Blog
+description: Blogging about stuffs
+meta_description: "Oscar Bjorkman Blogging about stuffs"
 
-# Build settings
-markdown: kramdown
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'http://stereopoly.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'http://stereopoly.github.io'
+author:         'Oscar Bjorkman'
+authorTwitter:  'YourTwitterUsername'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
