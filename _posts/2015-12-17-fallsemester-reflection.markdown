@@ -7,9 +7,10 @@ categories:
 ---
 
 # Epic Rap Battle of History Reflection
-##### Link - [Video](https://drive.google.com/file/d/0BzEqU4Z2AwHsUk5LU0NzM2JIeFk/view?usp=sharing)
-#
-#
+### Link - [Video](https://drive.google.com/file/d/0BzEqU4Z2AwHsUk5LU0NzM2JIeFk/view?usp=sharing)
+
+<br />
+<br />
 
 ### Backward Looking
 In the past I have done several movies for a variety of subjects like science and history. In 7th grade, I did a movie about our solar system and how it affects humans and animals on Earth. Comparing it to the rap battle I made this fall, it was not as good. The rap battle had both a movie and a homemade music track, while the science video only had video. I have gotten a lot better at using music mixing software since 7th grade to be able to make this rap battle sound pretty good. In 8th grade history, I made a video using flashcards and I would quickly flash them in front of the screen to make a flipbook style video. It was not very good since everything was very shaky, and the voice recording was very bad. The rap battle that my group and I made had very good sound quality because we recorded with good microphones. The music was also mixed with better software and I have gotten better at it since 8th grade.
