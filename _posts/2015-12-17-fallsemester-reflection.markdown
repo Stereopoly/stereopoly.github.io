@@ -1,7 +1,9 @@
 ---
+layout: post
 title:  "Fall Semester Reflection"
-date:   2015-12-17 11:07:00
-description: Reflection of 1 work sample in the fall semester
+subtitle: "A reflection on a piece of work from the fall"
+date:   2015-12-16 23:56:45
+categories:
 ---
 
 Text text text to be replaced

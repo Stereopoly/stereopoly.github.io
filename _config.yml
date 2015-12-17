@@ -1,41 +1,18 @@
-name: Oscar Bjorkman's Blog
-description: Blogging about stuffs
-meta_description: "Oscar Bjorkman Blogging about stuffs"
+# Site settings
+title: Oscar Bjorkman
+description: >
+  Oscar Bjorkman's blog about stuffs
 
-aboutPage: true
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.oscarbjorkman.com" # the base hostname & protocol for your site
 
-markdown: redcarpet
-highlighter: pygments
+author:
+  fullname: Oscar Bjorkman
+  # googleplus: https://www.google.com/+MotaquillahMaddane
+  github: Stereopoly
+  # disqus: your_disqus_username
 
-baseurl: /
-domain_name: 'http://stereopoly.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+# google_analytics: 'UA-XXXXXXXX-X'
 
-# Details for the RSS feed generator
-url:            'http://stereopoly.github.io'
-author:         'Oscar Bjorkman'
-authorTwitter:  'YourTwitterUsername'
-
-permalink:       /:year/:title/
-
-defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post
+# Build settings
+markdown: kramdown

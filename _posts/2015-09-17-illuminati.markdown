@@ -1,7 +1,9 @@
 ---
+layout: post
 title:  "illuminati"
-date:   2015-09-17 5:30:00
-description: An independent learning post
+subtitle: "A informative post"
+date:   2015-09-17 23:56:45
+categories:
 ---
 
 # The illuminati
