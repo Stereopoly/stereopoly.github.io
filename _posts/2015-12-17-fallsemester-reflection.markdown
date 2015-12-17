@@ -7,9 +7,9 @@ categories:
 ---
 
 # Epic Rap Battle of History Reflection
-### Link - [Video](https://drive.google.com/file/d/0BzEqU4Z2AwHsUk5LU0NzM2JIeFk/view?usp=sharing)
-
 <br />
+Link - [Video](https://drive.google.com/file/d/0BzEqU4Z2AwHsUk5LU0NzM2JIeFk/view?usp=sharing)
+
 <br />
 
 ### Backward Looking
