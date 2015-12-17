@@ -4,7 +4,7 @@ description: >
   Oscar Bjorkman's blog about stuffs
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.oscarbjorkman.com" # the base hostname & protocol for your site
+url: "http://stereopoly.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Oscar Bjorkman
