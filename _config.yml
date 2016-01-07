@@ -1,7 +1,7 @@
 # Site settings
 title: Oscar Bjorkman
 description: >
-  Oscar Bjorkman's blog about stuffs
+  Oscar Bjorkman's School Posts
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://stereopoly.github.io" # the base hostname & protocol for your site
