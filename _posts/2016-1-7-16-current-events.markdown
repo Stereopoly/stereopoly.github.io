@@ -13,7 +13,7 @@ categories:
 
 ## Summary
 
-This article describes North Korea and how criminals, rebels, and foreign nationals are tortured in horrible conditions. 8 torture methods are described, including solitary confinement in a 1 meter by 1.2 meter box, holding a set position until exhaustion, and beatings until vomiting blood. The article calls out North Korea for their human rights violations and wants them to face international criminal court. Currently, there is only a warning and no action has been taken in court.
+This impacts practically all of the 30 human rights we have. The torture methods wear you down to the bare bones and you are always on the brink of death. No where near adequate food is provided. The humans rights are virtually nonexistent in these torture chambers. The prisoners have no say or due process in court. The people’s right to have fun is even infringed upon. The entire world has looked badly upon North Korea due to them ignoring human rights of their prisoners and people.
 
 ## Human Rights Impact
 
