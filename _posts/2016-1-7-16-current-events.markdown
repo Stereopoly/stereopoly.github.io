@@ -17,8 +17,7 @@ This article describes North Korea and how criminals, rebels, and foreign nation
 
 ## Human Rights Impact
 
-This impacts practically all of the 30 human rights we have. The torture methods wear you down to the bare bones and you are always on the brink of death. No where near adequate food is provided. The humans rights are virtually nonexistent in these torture chambers and there is no say from the victims even considered. The people’s right to have fun is even infringed upon. The entire world has looked badly upon North Korea due to them ignoring human rights of their prisoners and people.
-
+This impacts practically all of the 30 human rights we have. The torture methods wear you down to the bare bones and you are always on the brink of death. No where near adequate food is provided. The humans rights are virtually nonexistent in these torture chambers. The prisoners have no say or due process in court. The people’s right to have fun is even infringed upon. The entire world has looked badly upon North Korea due to them ignoring human rights of their prisoners and people.
 
 ## Future Actions to Improve Human Rights
 
