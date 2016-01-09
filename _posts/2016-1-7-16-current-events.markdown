@@ -13,15 +13,15 @@ categories:
 
 ## Summary
 
-This article describes North Korea and how criminals, rebels, and foreign nationals are tortured in horrible conditions. 8 torture methods are described, including solitary confinement in a 1 meter by 1.2 meter box, holding a set position until exhaustion, and beatings until vomiting blood. The article calls out North Korea for their human rights violations and wants them to face international criminal court. Up to now, only a warning has been given by the UN and no action has been taken in court.
+This CNN article describes North Korea and how criminals, rebels, and foreign nationals are tortured in horrible conditions. 8 torture methods are described, including solitary confinement in a 1 meter by 1.2 meter box, holding a set position until exhaustion, and beatings until vomiting blood. The article calls out North Korea for their human rights violations and wants them to face international criminal court. Up to now, only a warning has been given by the UN and no action has been taken in court.
 
 ## Human Rights Impact
 
-This impacts practically all of the 30 human rights we have. The torture methods wear you down to the bare bones and you are always on the brink of death. No where near adequate food is provided. The humans rights are virtually nonexistent in these torture chambers. The prisoners have no say or due process in court. The entire world has looked badly upon North Korea due to them ignoring human rights of their prisoners and people.
+The human rights violations described impact practically all of the 30 human rights we have. The torture methods wear you down to the bare bones and you are always on the brink of death. No where near adequate food is provided. The humans rights are virtually nonexistent in these torture chambers. The prisoners have no say or due process in court. Most countries have looked down upon North Korea due to them ignoring human rights of their prisoners.
 
 ## Future Actions to Improve Human Rights
 
-Governments have already called North Korea out on their horrible human rights laws and how they treat their people. Their ruler hasn’t responded at all and hasn’t tried to improve the conditions of the people of North Korea. We can help the people in North Korea by donating to various charities that send food and money there. There are a lot of organizations trying to help the starving people and supporting them would help solve this problem. The US government along with the other United Nations countries could push North Korea a bit harder to try to get Kim Jong Un to give his people better housing.
+Governments have already called North Korea out on their horrible human rights violations and how they treat their people. Their ruler has only denied such accusations saying it is a ploy to overthrow their government, and hasn’t tried to improve the conditions of the people of North Korea. We can help the people in North Korea by donating to various charities that send food and money there. There are a lot of organizations trying to help the starving people and supporting them would help solve this problem. The US government along with the other United Nations countries could push North Korea a bit harder to try to get Kim Jong Un to give his people better housing and treat his people better.
 
 ![Alt text](/pic1.jpeg)
 
