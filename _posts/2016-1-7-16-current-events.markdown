@@ -21,7 +21,7 @@ The human rights violations described impact practically all of the 30 human rig
 
 ## Future Actions to Improve Human Rights
 
-Governments have already called North Korea out on their horrible human rights laws and how they treat their people. Their ruler hasn’t responded at all and hasn’t tried to improve the conditions of the people of North Korea. We need to take Kim Jong Un to international court about these human rights violations. While this court case goes on, we can help the people of North Korea by sending them food and water.
+Governments have already called North Korea out on their horrible human rights laws and how they treat their people. Their ruler hasn’t responded at all and hasn’t tried to improve the conditions of the people of North Korea. We need to take Kim Jong Un to international court about these human rights violations. Meanwhile, we can help the people of North Korea by supporting humanitarian organizations working in North Korea.
 
 ![Alt text](/pic1.jpeg)
 
