@@ -17,7 +17,7 @@ This CNN article describes North Korea and how criminals, rebels, and foreign na
 
 ## Human Rights Impact
 
-The human rights violations described impact practically all of the 30 human rights we have. The torture methods wear you down to the bare bones and you are always on the brink of death. No where near adequate food is provided. The humans rights are virtually nonexistent in these torture chambers. The prisoners have no say or due process in court. Most countries have looked down upon North Korea due to them ignoring human rights of their prisoners.
+The human rights violations described impact practically all of the 30 human rights we have. The torture methods wear you down to the bare bones and you are always on the brink of death. No where near adequate food is provided. The humans rights are virtually nonexistent in these torture chambers. The prisoners have no say or due process in court. Most countries look down upon North Korea's leadership due to them ignoring human rights of their prisoners.
 
 ## Future Actions to Improve Human Rights
 
