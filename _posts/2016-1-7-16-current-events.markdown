@@ -13,7 +13,7 @@ categories:
 
 ## Summary
 
-This CNN article describes North Korea and how criminals, rebels, and foreign nationals are tortured in horrible conditions. 8 torture methods are described, including solitary confinement in a 1 meter by 1.2 meter box, holding a set position until exhaustion, and beatings until vomiting blood. The article calls out North Korea for their human rights violations and wants them to face international criminal court. Up to now, only a warning has been given by the UN and no action has been taken in court.
+This CNN article describes North Korea and how criminals, rebels, and foreign nationals are tortured in horrible conditions. 8 torture methods are described, including solitary confinement in a 1 meter by 1.2 meter box, holding a set position until exhaustion, and beatings until vomiting blood. The article calls out North Korea for their human rights violations and wants them to face international criminal court. Up to now, only a warning has been given by the UN and no action has been taken in court due to China and Russia resisting such action.
 
 ## Human Rights Impact
 
@@ -21,7 +21,7 @@ The human rights violations described impact practically all of the 30 human rig
 
 ## Future Actions to Improve Human Rights
 
-Governments have already called North Korea out on their horrible human rights violations and how they treat their people. Their ruler has only denied such accusations saying it is a ploy to overthrow their government, and hasn’t tried to improve the conditions of the people of North Korea. We can help the people in North Korea by donating to various charities that send food and money there. There are a lot of organizations trying to help the starving people and supporting them would help solve this problem. The US government along with the other United Nations countries could push North Korea a bit harder to try to get Kim Jong Un to give his people better housing and treat his people better.
+Governments have already called North Korea out on their horrible human rights laws and how they treat their people. Their ruler hasn’t responded at all and hasn’t tried to improve the conditions of the people of North Korea. We need to take Kim Jong Un to international court about these human rights violations. While this court case goes on, we can help the people of North Korea by sending them food and water.
 
 ![Alt text](/pic1.jpeg)
 
