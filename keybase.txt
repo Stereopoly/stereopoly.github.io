@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/oscarbjorkman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://oscarbjorkman.com
+  * I am oscarbjorkman (https://keybase.io/oscarbjorkman) on keybase.
+  * I have a public key with fingerprint 6D6E 5841 6B08 7FB6 C4FB  1373 EF5F 69E6 1CF8 FD92
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101236e3715f8c2527e9f22de71c32f518895a3819bec436ce4bd7840109de69f560a",
+            "fingerprint": "6d6e58416b087fb6c4fb1373ef5f69e61cf8fd92",
+            "host": "keybase.io",
+            "key_id": "ef5f69e61cf8fd92",
+            "kid": "0101236e3715f8c2527e9f22de71c32f518895a3819bec436ce4bd7840109de69f560a",
+            "uid": "05b7778f310a7bc0eea21957ab32ca19",
+            "username": "oscarbjorkman"
+        },
+        "service": {
+            "hostname": "oscarbjorkman.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1496284700,
+    "expire_in": 157680000,
+    "prev": "7e8cf4565de2acb6c52a357dc0ebd0d711a1581726361a1317828d28a328e88f",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.71
+Comment: https://keybase.io/crypto
+
+yMIgAnicrVJJaBRBFJ0xUZKoJIcoUcylURTJ0lU9tfQQEVHjgriAUVzH6urqpJyk
+e+yeTMzELIJ4ERSDenGJBsnRBdFDMBpjXGJcEDyJCAlGBY3ggqIXrXa55eipqv5/
+7/Herz84PSdSEH3U/eMAfF9TFx2+da4xsqWybU6LZnl2sxZv0ZLi9yHqbRGkE0lp
+a3FNBzqABhYGAcihHCJIhOlAaAsCuAEdBCg1ETMoMC3BYwbmImbZhMYU0bQFNh2E
+daaVaY50a4Wf8qWbVrLYxgLRGMCWToljYR5zLGAQQzjIwabAgDvUsU2oiHVeEDKU
+OYsFokJ6qqYeid/2JsD/Z9+Nf+SQRQihjgF0RiyuC8EgMBFhlgE5A2YIDITvsgah
+0F7AmW/t9vxkA3O11jJNtTKSi3C6YZyJYBXca1AqKd9Le9yrV+26dDoVxEN6ujkV
+4puElfirlLCka6uJKkZG+IH0XC0OFJKnZSgNYiaGNEZ0vUwTe1PSFwkZIhDBVNfD
+asoXGSVJBOVODGFkC8i4+gcEmYGIrRJatm4TABhAFBCIDayuBiAUUhtSZkAqKHW0
+MNse19PiVNlktUoykLUuSzf6Qmsd6N+eG4kWRKZMnhRuWqQgv+jf/h1pyYt07qgc
+LKkaqjIudSXknBMvfTS+rbBz4ezshrvLG8tz7/eMz959L7JxVnvr65wL165WrR0e
+Qi1toyt7ks9efcj1oqaOWN8q2Zta0IFl37Qet6qwdMnorjVTvpRUd1y6eajY3iTz
+s1cSxW/E+q2Rg0PjTTN/9n4run7qfNvxpaZ+dHH2ZEP32aAbGPOP9LQnsdaXO1J+
+5sKYzPZOnVs+rb7+3bK9mejTztIHYzfmPTm91Jg5t+0zJ8/7D1efQV3XL/K8h/t7
+j11enR25zc9eeVh07vKdpPh46lOy8OrqWReLv3aMvfg549hAxboV++Xprpq3mfML
+9m3Wdn5velwzeVFzc/4vF748VA==
+=HSar
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oscarbjorkman
+
+==================================================================
+
