@@ -3160,7 +3160,7 @@
 		#header .logo {
 			border: 0;
 			display: inline-block;
-			font-size: 0.8em;
+			font-size: 1em;
 			height: inherit;
 			line-height: inherit;
 			padding: 0 1.5em;
@@ -3207,7 +3207,7 @@
 			#header nav a {
 				border: 0;
 				display: block;
-				font-size: 0.8em;
+				font-size: 1em;
 				height: inherit;
 				line-height: inherit;
 				padding: 0 0.75em;
@@ -3268,6 +3268,7 @@
 		}
 
 		#header.alt {
+/*
 			-moz-transition: opacity 2.5s ease;
 			-webkit-transition: opacity 2.5s ease;
 			-ms-transition: opacity 2.5s ease;
@@ -3279,6 +3280,7 @@
 			-moz-animation: none;
 			-webkit-animation: none;
 			-ms-animation: none;
+*/
 			animation: none;
 			background-color: transparent;
 			box-shadow: none;
@@ -3406,8 +3408,7 @@
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
-		align-items: center;
-		background-image: url("../../images/banner.jpg");
+		align-items: center;//
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3428,6 +3429,7 @@
 	}
 
 		#banner:after {
+/*
 			-moz-transition: opacity 2.5s ease;
 			-webkit-transition: opacity 2.5s ease;
 			-ms-transition: opacity 2.5s ease;
@@ -3440,12 +3442,13 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
+*/
 			background-color: #242943;
 			content: '';
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.85;
+			opacity: 0;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -3457,6 +3460,7 @@
 		}
 
 		#banner > .inner {
+/*
 			-moz-transition: opacity 1.5s ease, -moz-transform 0.5s ease-out, -moz-filter 0.5s ease, -webkit-filter 0.5s ease;
 			-webkit-transition: opacity 1.5s ease, -webkit-transform 0.5s ease-out, -webkit-filter 0.5s ease, -webkit-filter 0.5s ease;
 			-ms-transition: opacity 1.5s ease, -ms-transform 0.5s ease-out, -ms-filter 0.5s ease, -webkit-filter 0.5s ease;
@@ -3464,6 +3468,7 @@
 			padding: 0 !important;
 			position: relative;
 			z-index: 2;
+*/
 		}
 
 			#banner > .inner .image {
@@ -3504,9 +3509,9 @@
 				}
 
 				#banner > .inner .content p {
-					font-size: 0.7em;
+					font-size: 1em;
 					font-weight: 600;
-					letter-spacing: 0.25em;
+					letter-spacing: 0.2em;
 					text-transform: uppercase;
 				}
 
@@ -3889,7 +3894,7 @@
 						border: 0;
 						border-top: solid 1px rgba(212, 212, 255, 0.1);
 						display: block;
-						font-size: 0.8em;
+						font-size: 1em;
 						font-weight: 600;
 						letter-spacing: 0.25em;
 						line-height: 4em;
