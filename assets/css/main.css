@@ -48,6 +48,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+::selection {
+    background: #3498db;
+}
+
 /* Box Model */
 
 	*, *:before, *:after {
