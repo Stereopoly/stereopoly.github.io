@@ -1,0 +1,19 @@
+label {
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif; 
+    font-size:100px; 
+    margin-top:20%;
+}
+
+.text {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.text:hover .hover,
+.text .hover-other {
+    display: none;
+}
+.text:hover .hover-other {
+    display: block;
+}

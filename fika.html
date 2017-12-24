@@ -2,16 +2,14 @@
 <!-- saved from url=(0026)http://adrawo.me/Fika.html -->
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
    
-    
+    <link rel="stylesheet" href="assets/css/fika.css"/>
     <title></title>
 </head>
 <body>
-    <div style="align-items: center;
-  display: flex;
-  justify-content: center; ">
-    <label id="fika" style="font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif; font-size:100px; margin-top:20%;">Är det fika? <b style="color: #FF000F;">NEJ!</b></label>
+    <div class="text">
+        <label id="fika" class="hover">Är det fika? <b style="color: #FF000F;">NEJ!</b></label>
+        <label id="fikaeng" class="hover-other">Is it fika? <b style="color: #FF000F;">NO!</b></label>
     </div>
-
 
 <script>
    
@@ -25,8 +23,10 @@
         console.log();
         if ((n == 15 || n == 10) && (d.getMinutes() < 20) && (d.getDay() < 6)) {
             fika.innerHTML = 'Är det fika? <b style="color: #007a33;">JA!</b>';
+            fikaeng.innerHTML = 'Is it fika? <b style="color: #007a33;">YES!</b>'
         } else {
             fika.innerHTML = 'Är det fika? <b style="color: #FF000F;">NEJ!</b>';
+            fikaeng.innerHTML = 'Is it fika? <b style="color: #FF000F;">NO!</b>'
         }
     }
 
