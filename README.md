@@ -1,5 +1,5 @@
-# Personal-Site-V3
-v3 of my personal website
+# Personal Website
+Current iteration of my personal website
 
-### Credits: <br>
-Bootstrap
+[Link](https://www.oscarbjorkman.com)
+
