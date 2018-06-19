@@ -1,0 +1,89 @@
+==================================================================
+https://keybase.io/oscarbjorkman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.oscarbjorkman.com
+  * I am oscarbjorkman (https://keybase.io/oscarbjorkman) on keybase.
+  * I have a public key with fingerprint 2D7E 1E9B 23A5 C4E8 3E75  6252 85C0 2764 A7B0 ECC0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d4e6232b6fdcd86e389c7fe02fccf5f83a003d8db951442664f4a243b50b9ff60a",
+      "fingerprint": "2d7e1e9b23a5c4e83e75625285c02764a7b0ecc0",
+      "host": "keybase.io",
+      "key_id": "85c02764a7b0ecc0",
+      "kid": "0101ea0796264794d416c8fee603cb142b9b02aeed3b2ea203c69fa9187324caa67b0a",
+      "uid": "05b7778f310a7bc0eea21957ab32ca19",
+      "username": "oscarbjorkman"
+    },
+    "merkle_root": {
+      "ctime": 1529400094,
+      "hash_meta": "24add9a3cbd2a99efab417dc4c5d46d4450576175a871fc4f59803904603c67d",
+      "seqno": 3099059
+    },
+    "revoke": {
+      "sig_ids": [
+        "e1309e57bd9366f418a7999e706471b38f4021452574614a96790f55bf567ae90f"
+      ]
+    },
+    "service": {
+      "hostname": "www.oscarbjorkman.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1529400100,
+  "expire_in": 157680000,
+  "prev": "a110a1958401ff977bd83bdc3a34d5c7321184de4629200c1bf340c7a32479d9",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMQHAnicbZN7bBRFHMcPlEcrlYZarUVEFkLRNmV2d3Zn55RWwbRUCZRHQiPCObsz
+2zuud3vsHlfKMxqeNYZSHilFXhWhPG1BsfSRlEY4kootKBBTLcGgVrFVC0b8R5yt
+EEPiXzs7+f6+v+98fjOfJT3iSRy0rjWDHqr7pXVQe9vapZ4Fk9onrBB0i5YJ3hVC
+kA18WAllTtQXDFDBKwBRAhQyVZIlXTWpQTWVyRo2kMmAZBqGqZiaTACQqUZ1rIgQ
+SqoKTUgkKOsK0LFpqoAIWYIZCBczO2IHwlFuK1HERIZ1SSaKAZkmM6SokiJpigEk
+pEKCdMAMA/BCv+W4FTycThyWHbD4Hv/xDcT7H/2D3EBkBCCsSipEGFIoqoZmMqYC
+2dBFKOlYBxJhjMq6xIjEd1VsEixqSJagQYjKHd3cS/+1U3SEkGbKIuCtDMB4iYgV
+RHRZMoiIXaHD7DAJMa62HIPY+mLLDoZIWFiVJYSYHSxhPtuyoi5hIxpwdaIiYQgA
+wJCfkjh+X4hFiQsHEkox4TmpRDBmJtGhiKgBDYVClUKoAAWpIlKIhkTTgKaCNSBj
+AN2zqYjyMA5bErYErwwwBgrmCWwWs4LMbe4Eijk7R/AuEJjIBUxBOsWyqppQ1AjC
+vCECnJmoy5oJgSRCRVIQVEVIsIowMBVFNxUVEcbXwsJVbjM7FjAGzN1h3YdQWlqa
+/RCIbMMK8WgR24pahlXCJf5oNOJ4XUDRsshADdN99918eiBM+Z3hFTFmOwErzIFx
+5cPsRACyBLYsErCZL+AqOBiNIwVuHxbjlkTkI+Oj0iAQTRMjflhN1qkhExlSxeDT
+FkUNUgZVCUsAGKJuyhAYiPBrgDDF/8GUMM9JirknRxgm0aU2E1a1nX3zUc+gRM/Q
+IYPdx+RJTEh+8MSONyZ7TsjWPpgfm3qzdOJbb+fN7s7dsDpp2MxkbfLkUXTL3nmp
+Y3vHdiccO4kP/Qji2z/1CkPlWOWI2iH+9q7Hn9710oK+wh5v17nt/U++Fq+vZM9H
+489Wt2zcur97UcvNV7+LBztf7rl0o6F+ycqzGWkjlq/PvGzsuHVbqCy6MG39kS8O
+TL9VeDdrXNm3zdu7nqkom/rBzLt66pnmqZFQ7Ubn3vc514qCuT/NrWkPDf89Yf/W
+0aeclFpfZkZhAJpnR+ddWjRyW37BrL4m7XzuYd/rXz4x/+TB9zddWNOTfub0jF1j
++z7ZtzfpyB6cujup/EZDcHKVv+/gpIsT6/p7q2ZW1M9YU7WjtCDy4ZV7cw7V+32D
+49dz1tZUCrN/bRjfm5Iz+qkt9e2/tbK+UUG27fSw8/nl53LS2vI3bF5XnXc0dXzn
+pjcWkr3V8qgXE9M3He0Z3nM0rbJ33p078wuPN/yw4auMsi7xndyUbaeOLT5xLUu1
+Fl/5eWcrmNU6t7yjpmj5C/m9VcKZjsTU5vJZU/7sbnusorlw3NX+tFokTKuI39gy
+wV+uL1tb0Js8526uvCR+sim77mZn8qLi2+s8cvuYeOPO6Mo/6g4Emi92TWm5Tg9/
+lPt3U+crtClh17tgaPYe35jVEyZ+83lPS+Plj/1Tvs7reK8rxfqrZk/JzszQ5o70
+6emeItZY6j+duXvk1dhzieqa/tn/AINNA94=
+=zWWl
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oscarbjorkman
+
+==================================================================
+
