@@ -27,3 +27,7 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+iframe {
+  min-height: 400px; 
+}
