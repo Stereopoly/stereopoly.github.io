@@ -26,12 +26,12 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-modern-business.git"
     },
     "dependencies": {
-        "bootstrap": "4.1.1",
+        "bootstrap": "^4.3.1",
         "font-awesome": "^4.7.0",
         "jquery": "3.4.0"
     },
     "devDependencies": {
-        "browser-sync": "2.24.3",
+        "browser-sync": "^2.26.7",
         "gulp": "^3.9.1"
     }
 }
