@@ -1,45 +1,43 @@
-<!doctype html>
-<html lang="en">
+import React from "react"
+import { Helmet } from "react-helmet"
 
-<head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+import "../styles/style.css"
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+export default function Home() {
+  return (
+    <>
+    <Helmet>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
+      <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap" rel="stylesheet" />
 
-    <!-- CSS -->
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+      <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+      <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+      <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+      <link rel="manifest" href="/site.webmanifest" />
+      <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+      <meta name="msapplication-TileColor" content="#da532c" />
+      <meta name="theme-color" content="#ffffff" />
 
-    <title>Oscar Bjorkman</title>
-</head>
-
-<body>
-    <div class="container" id="main">
+      <title>Oscar Bjorkman</title>
+    </Helmet>
+    <body>
+      <div class="container" id="main">
         <div class="row">
-            <div class="col-md-5" style="margin: 0 auto;">
-                <img class="headshot" src="img/oscarface.jpg">
+            <div class="col-md-5" style={{margin: '0'}}>
+                <img class="headshot" src="/src/img/oscarface.jpg" />
             </div>
         </div>
         <div class="row">
-            <div class="col-md-8" style="margin: 0 auto; text-align: center">
+            <div class="col-md-8">
                 <div class="name">Oscar Bjorkman</div>
                 <div class="details">
                     <p>
-                        Computer Science & Data Science @ UC Berkeley <br>
-                        Research Intern @ <a target="_blank" href="http://www.research.ibm.com/labs/almaden/">IBM Research</a>
+                        Computer Science & Data Science @ UC Berkeley <br />
+                        Research Intern @ <a target="_blank" rel="noreferrer" href="http://www.research.ibm.com/labs/almaden/">IBM Research</a>
                     </p>
                 </div>
             </div>
@@ -50,28 +48,27 @@
             <p>
                 I am currently a student at <a href="https://www.berkeley.edu/">UC Berkeley</a> studying <a href="https://eecs.berkeley.edu/academics/undergraduate/cs-ba">Computer Science</a> and <a href="https://data.berkeley.edu/">Data Science</a> who loves to use the power of technology. I participate in robotics competitions, write iPhone applications, attend hackathons as time permits, and look for opportunities to work with cool technology. I currently have 6 apps on the Apple App Store used by tens of thousands of people across the world. When I'm away from HAL (my computer), I enjoy playing tennis, flying drones, and traveling. I can read and write Chinese, and speak some Swedish.
             </p>
-            <br>
+            <br />
             <p>
 
-                At Berkeley I am the Chief of Staff for <a target="_blank" href="https://octo.asuc.org/">OCTO</a> and work on the iOS team developing Berkeley Mobile. I'm also on the team organizing <a target="_blank" href="https://pinnacle.us.org/">Pinnacle</a>, a competitive collegiate hackathon coming Fall 2021.
+                At Berkeley I am the Chief of Staff for <a target="_blank" rel="noreferrer" href="https://octo.asuc.org/">OCTO</a> and work on the iOS team developing Berkeley Mobile. I'm also on the team organizing <a target="_blank" rel="noreferrer" href="https://pinnacle.us.org/">Pinnacle</a>, a competitive collegiate hackathon coming Fall 2021.
             </p>
-            <br>
+            <br />
             <p>
 
-                Check Out: <a target="_blank" href="https://github.com/Stereopoly">GitHub</a>, <a target="_blank" href="https://www.linkedin.com/in/bjorkmanoscar/">LinkedIn</a> <br>
-                Email: <a href="mailto:oscarb@berkeley.edu">oscarb@berkeley.edu</a> <br>
-                PGP: <a href="https://keybase.io/oscarbjorkman" target="_blank">85C0 2764 A7B0 ECC0</a>
+                Check Out: <a target="_blank" rel="noreferrer" href="https://github.com/Stereopoly">GitHub</a>, <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/bjorkmanoscar/">LinkedIn</a> <br />
+                Email: <a href="mailto:oscarb@berkeley.edu">oscarb@berkeley.edu</a> <br />
+                PGP: <a href="https://keybase.io/oscarbjorkman" rel="noreferrer" target="_blank">85C0 2764 A7B0 ECC0</a>
             </p>
         </div>
 
         <div class="header">Experience</div>
-
         <div class="row">
             <div class="col-8">
-                <div class="subsection" style="margin-top: 0px">NASA</div>
+                <div class="subsection" style={{marginTop: "0px"}}>NASA</div>
                 <div class="row">
                     <div class="col-6">Research Associate</div>
-                    <div class="col-6" style="text-align: right;">Summer 2019</div>
+                    <div class="col-6" style={{textAlign: "right"}}>Summer 2019</div>
                 </div>
                 <div class="description">
                     <ul>
@@ -81,7 +78,7 @@
                 </div>
             </div>
             <div class="col-4">
-                <img class="experience-img" src="img/nasalogo.svg">
+                <img class="experience-img" src="img/nasalogo.svg" />
             </div>
         </div>
 
@@ -90,7 +87,7 @@
                 <div class="subsection">NASA</div>
                 <div class="row">
                     <div class="col-6">Research Associate</div>
-                    <div class="col-6" style="text-align: right;">July - August 2018</div>
+                    <div class="col-6" style={{textAlign: "right"}}>July - August 2018</div>
                 </div>
                 <div class="description">
                     <ul>
@@ -101,7 +98,7 @@
                 </div>
             </div>
             <div class="col-4">
-                <img class="experience-img" src="img/nasalogo.svg">
+                <img class="experience-img" src="img/nasalogo.svg" />
             </div>
         </div>
 
@@ -110,7 +107,7 @@
                 <div class="subsection">botBrain.ai</div>
                 <div class="row">
                     <div class="col-6">ML Engineer Intern</div>
-                    <div class="col-6" style="text-align: right;">June 2018</div>
+                    <div class="col-6" style={{textAlign: "right"}}>June 2018</div>
                 </div>
                 <div class="description">
                     <ul>
@@ -120,7 +117,7 @@
                 </div>
             </div>
             <div class="col-4">
-                <img class="experience-img" src="img/botbrainlogo.png">
+                <img class="experience-img" src="img/botbrainlogo.png" />
             </div>
         </div>
 
@@ -129,7 +126,7 @@
                 <div class="subsection">ABB Enterprise Software</div>
                 <div class="row">
                     <div class="col-6">Software Development Intern</div>
-                    <div class="col-6" style="text-align: right;">Summer 2017</div>
+                    <div class="col-6" style={{textAlign: "right"}}>Summer 2017</div>
                 </div>
                 <div class="description">
                     <ul>
@@ -139,12 +136,12 @@
                 </div>
             </div>
             <div class="col-4">
-                <img class="experience-img" src="img/abblogo.svg">
+                <img class="experience-img" src="img/abblogo.svg" />
             </div>
         </div>
 
         <div class="header">Publications</div>
-        <div class="subsection" style="margin-top: 0px;">Risk and Performance Assessment of Generic Mission Architectures: Showcasing the Artemis Mission</div>
+        <div class="subsection"style={{marginTop: "0px"}}>Risk and Performance Assessment of Generic Mission Architectures: Showcasing the Artemis Mission</div>
         <div class="description">
             Co-Author. Submitted for IEEE Aerospace Conference 2020. Written as part of my internship in Summer 2019 at NASA.
         </div>
@@ -155,14 +152,13 @@
         <p>
             Old website: <a href="https://www.oscarbjorkman.com/old_website/">Link</a>
         </p>
-
-    </div>
-
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-</body>
-
-</html>
+      </div>
+    </body>
+    <Helmet>
+      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    </Helmet>
+    </>
+  )
+}
